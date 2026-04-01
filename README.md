@@ -69,5 +69,4 @@ The Power BI dashboard includes:
 ## 👤 Author
 **Kaif Mukadam**
 - 📊 Data Analytics | Finance | SQL | Power BI | Python
-- 🎥 YouTube: [@empirestats.official](https://www.youtube.com/@empirestats.official)
 - 💼 GitHub: [github.com/kaifmukadam](https://github.com/kaifmukadam)
